@@ -1,2 +1,2 @@
 # eslab
-Lab Codes of Embedded Systems Lab
+Embedded Systems Lab Codes
